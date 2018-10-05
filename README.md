@@ -1,1 +1,1 @@
-# data_structures_
+This repo is for data structure algorithms
